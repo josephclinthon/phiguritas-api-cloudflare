@@ -2,7 +2,7 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url)
 
-    if (url.pathname === "/data.json") {
+    if (url.pathname === "/albums.json") {
       return env.ASSETS.fetch(request)
     }
 
