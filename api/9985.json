@@ -1,0 +1,8 @@
+{
+  "id": "9985",
+  "data": {
+    "stAlbum": "{\n  \"id\": 9985,\n  \"name\": \"Harry Potter\",\n  \"subtitle\": \"La Piedra Filosofal, La Cámara Secreta y el Prisionero de Askaban\",\n  \"publisher\": \"Berlin\",\n  \"year\": 2025,\n  \"totalStickers\": 0,\n   \"as03\": \"NORMAL,ESPECIAL,TROQUELADA\",\n   \"specials\":\"1\"\n}",
+    "stickers": "",
+    "groups": "[\n  {\"albumId\":9985,\"category\":\"PRINCIPAL\",\"prefix\":\"\",\"count\":182,\"sequence\":\"NUMERICA\",\"ai01\":1,\"specials\":\"10,13,16,17,27,32,40,44,53,57,64,70,73,77,83,91,92,99,105,108,116,118,128,134,139,143,148,156,161,165,170,179\"},\n  {\"albumId\":9985,\"category\":\"TROQUELADAS\",\"prefix\":\"T\",\"count\":12,\"sequence\":\"NUMERICA\",\"ai01\":1,\"specials\":\"\"}\n]"
+  }
+}
