@@ -1,8 +1,8 @@
 {
   "id": "9989",
   "data": {
+    "groups": "[\n    {\"ad01\":0.0,\"ad02\":0.0,\"ad03\":0.0,\"ai01\":1,\"ai02\":0,\"ai03\":0,\"albumId\":9989,\"as01\":\"\",\"as02\":\"S\",\"as03\":\"\",\"category\":\"PRINCIPAL\",\"count\":177,\"custom\":\"\",\"displayName\":false,\"id\":0,\"prefix\":\"\",\"sequence\":\"NUMERICA\",\"specials\":\"\",\"stickerTypes\":\"\",\"subCategory\":\"PRINCIPAL\"},\n    {\"ad01\":0.0,\"ad02\":0.0,\"ad03\":0.0,\"ai01\":1,\"ai02\":0,\"ai03\":0,\"albumId\":9989,\"as01\":\"\",\"as02\":\"S\",\"as03\":\"\",\"category\":\"POSTER/AFICHE\",\"count\":27,\"custom\":\"\",\"displayName\":false,\"id\":0,\"prefix\":\"F\",\"sequence\":\"NUMERICA\",\"specials\":\"\",\"stickerTypes\":\"\",\"subCategory\":\"POSTER/AFICHE\"}\n]",
     "stAlbum": "{\n  \"id\": 9989,\n  \"name\": \"One Piece\",\n  \"subtitle\": \"RUMBO A EGGHEAD\",\n  \"publisher\": \"Panini\",\n  \"year\": 2025,\n  \"totalStickers\": 0\n}",
-    "stickers": "",
-    "groups": "[\n    {\"ad01\":0.0,\"ad02\":0.0,\"ad03\":0.0,\"ai01\":1,\"ai02\":0,\"ai03\":0,\"albumId\":9989,\"as01\":\"\",\"as02\":\"S\",\"as03\":\"\",\"category\":\"PRINCIPAL\",\"count\":177,\"custom\":\"\",\"displayName\":false,\"id\":0,\"prefix\":\"\",\"sequence\":\"NUMERICA\",\"specials\":\"\",\"stickerTypes\":\"\",\"subCategory\":\"PRINCIPAL\"},\n    {\"ad01\":0.0,\"ad02\":0.0,\"ad03\":0.0,\"ai01\":1,\"ai02\":0,\"ai03\":0,\"albumId\":9989,\"as01\":\"\",\"as02\":\"S\",\"as03\":\"\",\"category\":\"POSTER/AFICHE\",\"count\":27,\"custom\":\"\",\"displayName\":false,\"id\":0,\"prefix\":\"F\",\"sequence\":\"NUMERICA\",\"specials\":\"\",\"stickerTypes\":\"\",\"subCategory\":\"POSTER/AFICHE\"}\n]"
+    "stickers": ""
   }
 }
