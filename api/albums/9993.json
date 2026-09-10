@@ -2,7 +2,7 @@
   "id": "9993",
   "data": {
     "stickers": "",
-    "groups": "[\n  {\"albumId\":9993,\"category\":\"Regulares\",\"subCategory\":\"\",\"prefix\":\"\",\"count\":160,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai02\":0},\n  {\"albumId\":9993,\"category\":\"Póster Central\",\"subCategory\":\"\",\"prefix\":\"F\",\"count\":32,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai02\":0}\n]",
-    "stAlbum": "{\n  \"id\": 9993,\n  \"name\": \"Dragon Ball Super\",\n  \"subtitle\": \"La Colección Definitiva\",\n  \"publisher\": \"Panini\",\n  \"year\": 2026,\n  \"totalStickers\": 0\n}"
+    "stAlbum": "{\n  \"id\": 9993,\n  \"name\": \"Dragon Ball Super\",\n  \"subtitle\": \"La Colección Definitiva\",\n  \"publisher\": \"Panini\",\n  \"year\": 2026,\n  \"totalStickers\": 0\n}",
+    "groups": "[\n  {\"albumId\":9993,\"category\":\"Regulares\",\"subCategory\":\"\",\"prefix\":\"\",\"count\":160,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai02\":0},\n  {\"albumId\":9993,\"category\":\"Póster Central\",\"subCategory\":\"\",\"prefix\":\"F\",\"count\":32,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai02\":0}\n]"
   }
 }

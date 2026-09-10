@@ -1,8 +1,8 @@
 {
   "id": "9988",
   "data": {
-    "stAlbum": "{\n  \"id\": 9988,\n  \"name\": \"Super Mario\",\n  \"subtitle\": \"PLAY TIME\",\n  \"publisher\": \"Panini\",\n  \"year\": 2025,\n  \"totalStickers\": 0\n}",
+    "stickers": "",
     "groups": "[\n    {\"ad01\":0.0,\"ad02\":0.0,\"ad03\":0.0,\"ai01\":1,\"ai02\":0,\"ai03\":0,\"albumId\":9988,\"as01\":\"\",\"as02\":\"S\",\"as03\":\"\",\"category\":\"PRINCIPAL\",\"count\":144,\"custom\":\"\",\"displayName\":false,\"id\":0,\"prefix\":\"\",\"sequence\":\"NUMERICA\",\"specials\":\"\",\"stickerTypes\":\"\",\"subCategory\":\"\"},\n    {\"ad01\":0.0,\"ad02\":0.0,\"ad03\":0.0,\"ai01\":1,\"ai02\":0,\"ai03\":0,\"albumId\":9988,\"as01\":\"\",\"as02\":\"S\",\"as03\":\"\",\"category\":\"PÓSTER/AFICHE\",\"count\":32,\"custom\":\"\",\"displayName\":false,\"id\":0,\"prefix\":\"M\",\"sequence\":\"NUMERICA\",\"specials\":\"\",\"stickerTypes\":\"\",\"subCategory\":\"\"}\n]",
-    "stickers": ""
+    "stAlbum": "{\n  \"id\": 9988,\n  \"name\": \"Super Mario\",\n  \"subtitle\": \"PLAY TIME\",\n  \"publisher\": \"Panini\",\n  \"year\": 2025,\n  \"totalStickers\": 0\n}"
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "9992",
   "data": {
+    "stickers": "",
     "stAlbum": "{\n  \"id\": 9992,\n  \"name\": \"Snoopy\",\n  \"subtitle\": \"Un Año Para Recordar / Cuatro Estaciones\",\n  \"publisher\": \"Panini\",\n  \"year\": 2026,\n  \"totalStickers\": 0\n}",
-    "groups": "[\n  {\"albumId\":9992,\"category\":\"Regulares\",\"subCategory\":\"\",\"prefix\":\"\",\"count\":260,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai02\":0},\n  {\"albumId\":9992,\"category\":\"Extras\",\"subCategory\":\"\",\"prefix\":\"X\",\"count\":16,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai02\":0}\n]",
-    "stickers": ""
+    "groups": "[\n  {\"albumId\":9992,\"category\":\"Regulares\",\"subCategory\":\"\",\"prefix\":\"\",\"count\":260,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai02\":0},\n  {\"albumId\":9992,\"category\":\"Extras\",\"subCategory\":\"\",\"prefix\":\"X\",\"count\":16,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai02\":0}\n]"
   }
 }
