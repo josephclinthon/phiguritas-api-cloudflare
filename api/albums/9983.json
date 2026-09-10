@@ -1,8 +1,8 @@
 {
   "id": "9983",
   "data": {
+    "stickers": "",
     "groups": "[\n  {\"albumId\":9983,\"category\":\"PRINCIPAL\",\"prefix\":\"\",\"count\":221,\"sequence\":\"NUMERICA\",\"ai01\":1,\"specials\":\"8,9,11,15,21,24,29,41,50,60,70,77,85,109,125,128,135,160,168,176,185,200,215,219\"},\n  {\"albumId\":9983,\"category\":\"TROQUELADAS\",\"prefix\":\"T\",\"count\":12,\"sequence\":\"NUMERICA\",\"ai01\":1,\"specials\":\"\"}\n]",
-    "stAlbum": "{\n  \"id\": 9983,\n  \"name\": \"Harry Potter\",\n  \"subtitle\": \"El Cáliz de Fuego, La Orden del Fénix y El Misterio del Príncipe\",\n  \"publisher\": \"Berlin\",\n  \"year\": 2026,\n  \"totalStickers\": 0,\n   \"as03\": \"NORMAL,ESPECIAL,TROQUELADA\",\n   \"specials\":\"1\"\n}",
-    "stickers": ""
+    "stAlbum": "{\n  \"id\": 9983,\n  \"name\": \"Harry Potter\",\n  \"subtitle\": \"El Cáliz de Fuego, La Orden del Fénix y El Misterio del Príncipe\",\n  \"publisher\": \"Berlin\",\n  \"year\": 2026,\n  \"totalStickers\": 0,\n   \"as03\": \"NORMAL,ESPECIAL,TROQUELADA\",\n   \"specials\":\"1\"\n}"
   }
 }

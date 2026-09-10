@@ -2,284 +2,284 @@
   {
     "id": "1",
     "data": {
+      "albumName": null,
+      "parentId": null,
+      "albumId": null,
+      "orderIndex": 0,
       "isPopular": true,
       "id": 1,
-      "albumId": null,
       "name": "Populares",
-      "path": "",
-      "orderIndex": 0,
-      "albumName": null,
-      "parentId": null
+      "path": ""
     }
   },
   {
     "id": "10",
     "data": {
-      "albumSubtitle": "Estados Unidos · Canadá · México",
       "albumName": "Mundial 2026",
-      "path": "Futbol > WC",
-      "parentId": 3,
-      "isPopular": false,
-      "orderIndex": 9997,
-      "id": 10,
-      "albumPublisher": "3 Reyes",
+      "albumYear": 2026,
       "name": "Mundial 2026: Estados Unidos · Canadá · México",
       "albumId": 9997,
-      "albumYear": 2026
+      "isPopular": false,
+      "id": 10,
+      "orderIndex": 9997,
+      "parentId": 3,
+      "path": "Futbol > WC",
+      "albumPublisher": "3 Reyes",
+      "albumSubtitle": "Estados Unidos · Canadá · México"
     }
   },
   {
     "id": "11",
     "data": {
-      "albumSubtitle": "Estados Unidos · Canadá · México",
-      "name": "Mundial 2026: Estados Unidos · Canadá · México",
-      "albumPublisher": "Panini",
-      "parentId": 3,
-      "albumYear": 2026,
-      "orderIndex": 9998,
-      "albumId": 9998,
-      "albumName": "Mundial 2026",
       "id": 11,
+      "path": "Futbol > WC",
       "isPopular": false,
-      "path": "Futbol > WC"
+      "parentId": 3,
+      "albumPublisher": "Panini",
+      "orderIndex": 9998,
+      "albumName": "Mundial 2026",
+      "albumYear": 2026,
+      "name": "Mundial 2026: Estados Unidos · Canadá · México",
+      "albumId": 9998,
+      "albumSubtitle": "Estados Unidos · Canadá · México"
     }
   },
   {
     "id": "12",
     "data": {
       "albumId": 9999,
-      "isPopular": false,
-      "path": "Futbol > WC",
-      "id": 12,
-      "orderIndex": 9999,
-      "albumName": "Mundial 2026",
-      "albumYear": 2026,
-      "albumSubtitle": "FIFA Panini Collection",
-      "albumPublisher": "Panini",
       "name": "Mundial 2026: FIFA Panini Collection",
-      "parentId": 3
+      "parentId": 3,
+      "orderIndex": 9999,
+      "albumPublisher": "Panini",
+      "path": "Futbol > WC",
+      "albumSubtitle": "FIFA Panini Collection",
+      "isPopular": false,
+      "id": 12,
+      "albumYear": 2026,
+      "albumName": "Mundial 2026"
     }
   },
   {
     "id": "13",
     "data": {
-      "orderIndex": 0,
       "isPopular": false,
-      "name": "España",
-      "albumName": null,
-      "id": 13,
-      "path": "Futbol",
+      "parentId": 2,
       "albumId": null,
-      "parentId": 2
+      "orderIndex": 0,
+      "name": "España",
+      "id": 13,
+      "albumName": null,
+      "path": "Futbol"
     }
   },
   {
     "id": "14",
     "data": {
-      "parentId": 1,
-      "albumName": "LaLiga 2026-27",
-      "name": "LaLiga 2026-27: Col Este",
-      "isPopular": true,
-      "path": "Populares",
-      "albumSubtitle": "Col Este",
-      "orderIndex": 1,
       "id": 14,
+      "isPopular": true,
+      "parentId": 1,
+      "name": "LaLiga 2026-27: Col Este",
       "albumYear": 2026,
+      "albumName": "LaLiga 2026-27",
+      "albumId": 9995,
+      "orderIndex": 1,
+      "albumSubtitle": "Col Este",
       "albumPublisher": "Panini",
-      "albumId": 9995
+      "path": "Populares"
     }
   },
   {
     "id": "15",
     "data": {
-      "albumName": "Sport Boys",
-      "name": "Sport Boys: El Primer Campeón",
-      "id": 15,
-      "albumSubtitle": "El Primer Campeón",
-      "isPopular": true,
       "parentId": 1,
-      "albumPublisher": "Berlin",
-      "orderIndex": 3,
+      "albumSubtitle": "El Primer Campeón",
       "albumId": 9994,
+      "orderIndex": 3,
+      "albumPublisher": "Berlin",
+      "path": "Populares",
+      "isPopular": true,
+      "albumName": "Sport Boys",
       "albumYear": 2026,
-      "path": "Populares"
+      "id": 15,
+      "name": "Sport Boys: El Primer Campeón"
     }
   },
   {
     "id": "16",
     "data": {
-      "albumSubtitle": "La Colección Definitiva",
-      "name": "Dragon Ball Super: La Colección Definitiva",
-      "albumPublisher": "Panini",
-      "parentId": 1,
-      "albumYear": 2026,
-      "albumId": 9993,
       "orderIndex": 10,
-      "albumName": "Dragon Ball Super",
-      "id": 16,
+      "albumSubtitle": "La Colección Definitiva",
+      "parentId": 1,
+      "albumPublisher": "Panini",
+      "path": "Populares",
+      "albumId": 9993,
       "isPopular": true,
-      "path": "Populares"
+      "albumYear": 2026,
+      "id": 16,
+      "albumName": "Dragon Ball Super",
+      "name": "Dragon Ball Super: La Colección Definitiva"
     }
   },
   {
     "id": "17",
     "data": {
-      "albumName": "Snoopy",
-      "name": "Snoopy: Un Año Para Recordar / Cuatro Estaciones",
-      "isPopular": true,
-      "id": 17,
-      "orderIndex": 9992,
-      "path": "Populares",
       "albumSubtitle": "Un Año Para Recordar / Cuatro Estaciones",
-      "albumId": 9992,
+      "name": "Snoopy: Un Año Para Recordar / Cuatro Estaciones",
+      "parentId": 1,
+      "orderIndex": 9992,
       "albumPublisher": "Panini",
+      "id": 17,
+      "isPopular": true,
+      "path": "Populares",
       "albumYear": 2026,
-      "parentId": 1
+      "albumName": "Snoopy",
+      "albumId": 9992
     }
   },
   {
     "id": "18",
     "data": {
-      "path": "Populares",
-      "id": 18,
-      "albumName": "Solo Leveling",
       "parentId": 1,
-      "isPopular": true,
-      "albumSubtitle": "TEMPORADAS 1 Y 2",
       "albumId": "9991",
-      "albumPublisher": "Navarrete",
-      "name": "Solo Leveling: TEMPORADAS 1 Y 2",
       "orderIndex": 5,
-      "albumYear": 2026
+      "albumSubtitle": "TEMPORADAS 1 Y 2",
+      "path": "Populares",
+      "isPopular": true,
+      "albumPublisher": "Navarrete",
+      "albumName": "Solo Leveling",
+      "albumYear": 2026,
+      "name": "Solo Leveling: TEMPORADAS 1 Y 2",
+      "id": 18
     }
   },
   {
     "id": "19",
     "data": {
-      "albumSubtitle": "EA SPORTS",
-      "name": "LaLiga 2026-27: EA SPORTS",
-      "albumPublisher": "Panini",
-      "parentId": 1,
-      "albumYear": 2026,
-      "orderIndex": 0,
-      "albumId": 9990,
       "albumName": "LaLiga 2026-27",
+      "albumSubtitle": "EA SPORTS",
+      "albumYear": 2026,
+      "albumId": 9990,
       "id": 19,
+      "isPopular": true,
+      "orderIndex": 0,
+      "parentId": 1,
       "path": "Populares",
-      "isPopular": true
+      "name": "LaLiga 2026-27: EA SPORTS",
+      "albumPublisher": "Panini"
     }
   },
   {
     "id": "2",
     "data": {
-      "id": 2,
       "path": "",
-      "albumName": null,
-      "albumId": null,
       "name": "Futbol",
-      "parentId": null,
       "isPopular": false,
-      "orderIndex": 110
+      "id": 2,
+      "albumId": null,
+      "orderIndex": 110,
+      "parentId": null,
+      "albumName": null
     }
   },
   {
     "id": "20",
     "data": {
+      "id": 20,
       "orderIndex": 111,
-      "albumId": null,
-      "path": "",
       "isPopular": false,
-      "parentId": null,
-      "albumName": null,
       "name": "Animes",
-      "id": 20
+      "albumId": null,
+      "parentId": null,
+      "path": "",
+      "albumName": null
     }
   },
   {
     "id": "21",
     "data": {
-      "albumId": null,
       "isPopular": false,
+      "albumId": null,
       "parentId": 20,
       "path": "Animes",
       "name": "One Piece",
+      "orderIndex": 0,
       "albumName": null,
-      "id": 21,
-      "orderIndex": 0
+      "id": 21
     }
   },
   {
     "id": "22",
     "data": {
       "albumSubtitle": "RUMBO A EGGHEAD",
+      "path": "Animes > One Piece",
+      "albumId": 9989,
+      "id": 22,
+      "parentId": 21,
+      "orderIndex": 1,
       "name": "One Piece: RUMBO A EGGHEAD",
       "albumPublisher": "Panini",
-      "parentId": 21,
-      "albumYear": 2025,
-      "albumId": 9989,
-      "orderIndex": 1,
+      "isPopular": false,
       "albumName": "One Piece",
-      "id": 22,
-      "path": "Animes > One Piece",
-      "isPopular": false
+      "albumYear": 2025
     }
   },
   {
     "id": "23",
     "data": {
-      "albumId": null,
-      "isPopular": false,
-      "orderIndex": 112,
-      "name": "Videojuegos",
       "path": "",
       "albumName": null,
+      "parentId": null,
       "id": 23,
-      "parentId": null
+      "name": "Videojuegos",
+      "isPopular": false,
+      "orderIndex": 112,
+      "albumId": null
     }
   },
   {
     "id": "24",
     "data": {
-      "albumName": null,
-      "parentId": 23,
       "path": "Videojuegos",
-      "isPopular": false,
-      "id": 24,
-      "name": "Super Mario",
+      "albumName": null,
       "orderIndex": 0,
-      "albumId": null
+      "name": "Super Mario",
+      "parentId": 23,
+      "albumId": null,
+      "isPopular": false,
+      "id": 24
     }
   },
   {
     "id": "25",
     "data": {
-      "id": 25,
-      "parentId": 24,
-      "albumPublisher": "Panini",
-      "albumId": 9988,
-      "orderIndex": 1,
-      "albumYear": 2025,
-      "path": "Videojuegos -> Super Mario",
-      "name": "Super Mario: PLAY TIME",
       "albumName": "Super Mario",
+      "albumYear": 2025,
+      "orderIndex": 1,
       "isPopular": false,
-      "albumSubtitle": "PLAY TIME"
+      "albumSubtitle": "PLAY TIME",
+      "id": 25,
+      "path": "Videojuegos -> Super Mario",
+      "albumId": 9988,
+      "parentId": 24,
+      "name": "Super Mario: PLAY TIME",
+      "albumPublisher": "Panini"
     }
   },
   {
     "id": "26",
     "data": {
-      "albumSubtitle": "IT'S-A ME,MARIO!",
-      "isPopular": false,
-      "name": "Super Mario: IT'S-A ME,MARIO!",
-      "albumName": "Super Mario",
-      "id": 26,
       "orderIndex": 0,
-      "albumYear": 2026,
-      "path": "Videojuegos -> Super Mario",
       "albumPublisher": "Panini",
+      "albumId": 9987,
+      "albumSubtitle": "IT'S-A ME,MARIO!",
+      "id": 26,
+      "path": "Videojuegos -> Super Mario",
+      "isPopular": false,
+      "albumYear": 2026,
       "parentId": 24,
-      "albumId": 9987
+      "albumName": "Super Mario",
+      "name": "Super Mario: IT'S-A ME,MARIO!"
     }
   },
   {
@@ -287,240 +287,240 @@
     "data": {
       "albumSubtitle": "La Gloria Eterna",
       "name": "CONMEBOL Libertadores 2026: La Gloria Eterna",
-      "albumPublisher": "Panini",
-      "parentId": 1,
-      "albumYear": 2026,
-      "albumId": 9986,
       "orderIndex": 0,
-      "albumName": "CONMEBOL Libertadores 2026",
+      "parentId": 1,
+      "albumPublisher": "Panini",
       "id": 27,
       "isPopular": true,
-      "path": "Populares"
+      "path": "Populares",
+      "albumYear": 2026,
+      "albumName": "CONMEBOL Libertadores 2026",
+      "albumId": 9986
     }
   },
   {
     "id": "28",
     "data": {
-      "albumName": "LaLiga 2026-27",
-      "albumId": 9984,
       "albumPublisher": "Panini",
-      "albumSubtitle": "MEGACRACKS",
-      "name": "LaLiga 2026-27: MEGACRACKS",
       "id": 28,
-      "isPopular": true,
+      "name": "LaLiga 2026-27: MEGACRACKS",
+      "orderIndex": 0,
+      "albumId": 9984,
+      "albumName": "LaLiga 2026-27",
+      "albumSubtitle": "MEGACRACKS",
       "parentId": 1,
-      "path": "Populares",
       "albumYear": 2026,
-      "orderIndex": 0
+      "isPopular": true,
+      "path": "Populares"
     }
   },
   {
     "id": "29",
     "data": {
-      "orderIndex": 0,
-      "parentId": null,
-      "name": "Peliculas",
       "isPopular": false,
+      "parentId": null,
+      "albumId": null,
+      "orderIndex": 0,
       "albumName": null,
       "path": "",
       "id": 29,
-      "albumId": null
+      "name": "Peliculas"
     }
   },
   {
     "id": "3",
     "data": {
+      "id": 3,
+      "albumName": null,
+      "parentId": 2,
+      "path": "Futbol",
+      "orderIndex": 0,
       "isPopular": false,
       "name": "WC",
-      "parentId": 2,
-      "orderIndex": 0,
-      "path": "Futbol",
-      "id": 3,
-      "albumId": null,
-      "albumName": null
+      "albumId": null
     }
   },
   {
     "id": "30",
     "data": {
-      "albumId": null,
       "isPopular": false,
+      "name": "Harry Potter",
+      "parentId": 29,
       "id": 30,
       "path": "Peliculas",
-      "orderIndex": 0,
-      "name": "Harry Potter",
+      "albumId": null,
       "albumName": null,
-      "parentId": 29
+      "orderIndex": 0
     }
   },
   {
     "id": "31",
     "data": {
-      "orderIndex": 0,
+      "albumSubtitle": "La Piedra Filosofal, La Cámara Secreta y el Prisionero de Askaban",
+      "name": "Harry Potter: La Piedra Filosofal, La Cámara Secreta y el Prisionero de Askaban",
+      "id": 31,
       "albumId": 9985,
+      "albumName": "Harry Potter",
       "albumYear": 2025,
-      "path": "Peliculas > Harry Potter",
+      "orderIndex": 0,
       "albumPublisher": "Berlin",
       "parentId": 30,
       "isPopular": false,
-      "albumSubtitle": "La Piedra Filosofal, La Cámara Secreta y el Prisionero de Askaban",
-      "albumName": "Harry Potter",
-      "name": "Harry Potter: La Piedra Filosofal, La Cámara Secreta y el Prisionero de Askaban",
-      "id": 31
+      "path": "Peliculas > Harry Potter"
     }
   },
   {
     "id": "32",
     "data": {
       "albumYear": 2026,
-      "id": 32,
-      "albumId": 9983,
-      "albumPublisher": "Berlin",
-      "path": "Peliculas -> Harry Potter",
-      "orderIndex": 0,
+      "albumName": "Harry Potter",
       "parentId": 30,
+      "albumId": 9983,
+      "albumSubtitle": "El Cáliz de Fuego, La Orden del Fénix y El Misterio del Príncipe",
       "name": "Harry Potter: El Cáliz de Fuego, La Orden del Fénix y El Misterio del Príncipe",
       "isPopular": false,
-      "albumName": "Harry Potter",
-      "albumSubtitle": "El Cáliz de Fuego, La Orden del Fénix y El Misterio del Príncipe"
+      "orderIndex": 0,
+      "albumPublisher": "Berlin",
+      "path": "Peliculas -> Harry Potter",
+      "id": 32
     }
   },
   {
     "id": "33",
     "data": {
-      "albumName": null,
-      "name": "Toy Story",
-      "parentId": 29,
-      "albumId": null,
       "isPopular": false,
-      "orderIndex": 0,
+      "albumId": null,
       "id": 33,
-      "path": "Peliculas"
+      "path": "Peliculas",
+      "parentId": 29,
+      "orderIndex": 0,
+      "albumName": null,
+      "name": "Toy Story"
     }
   },
   {
     "id": "34",
     "data": {
-      "albumName": "Toy Story",
-      "orderIndex": 0,
-      "isPopular": false,
-      "parentId": 33,
-      "albumPublisher": "Panini",
-      "name": "Toy Story: Toy Story 5",
-      "albumSubtitle": "Toy Story 5",
       "path": "Peliculas > Toy Story",
-      "id": 34,
       "albumId": 9982,
-      "albumYear": 2026
+      "albumYear": 2026,
+      "albumPublisher": "Panini",
+      "albumName": "Toy Story",
+      "albumSubtitle": "Toy Story 5",
+      "id": 34,
+      "orderIndex": 0,
+      "parentId": 33,
+      "isPopular": false,
+      "name": "Toy Story: Toy Story 5"
     }
   },
   {
     "id": "35",
     "data": {
-      "id": 35,
+      "albumPublisher": "Berlin",
       "albumId": 9981,
       "name": "Harry Potter: 25 YEARS OF MAGIC",
+      "albumYear": 2026,
+      "id": 35,
       "albumName": "Harry Potter",
-      "isPopular": false,
-      "orderIndex": 0,
       "albumSubtitle": "25 YEARS OF MAGIC",
-      "parentId": 30,
-      "albumPublisher": "Berlin",
       "path": "Peliculas > Harry Potter",
-      "albumYear": 2026
+      "parentId": 30,
+      "isPopular": false,
+      "orderIndex": 0
     }
   },
   {
     "id": "4",
     "data": {
-      "parentId": 2,
-      "name": "Peru",
       "albumName": null,
+      "parentId": 2,
+      "isPopular": false,
+      "name": "Peru",
+      "albumId": null,
       "id": 4,
       "orderIndex": 1,
-      "path": "Futbol",
-      "isPopular": false,
-      "albumId": null
+      "path": "Futbol"
     }
   },
   {
     "id": "5",
     "data": {
-      "name": "Mundial 2026: Estados Unidos · Canadá · México",
+      "path": "Populares",
+      "albumId": 9996,
       "albumYear": 2026,
       "albumPublisher": "FiguPlay",
-      "id": 5,
-      "orderIndex": 9996,
-      "albumId": 9996,
-      "isPopular": true,
-      "parentId": 1,
-      "albumSubtitle": "Estados Unidos · Canadá · México",
       "albumName": "Mundial 2026",
-      "path": "Populares"
+      "id": 5,
+      "albumSubtitle": "Estados Unidos · Canadá · México",
+      "orderIndex": 9996,
+      "parentId": 1,
+      "isPopular": true,
+      "name": "Mundial 2026: Estados Unidos · Canadá · México"
     }
   },
   {
     "id": "6",
     "data": {
-      "orderIndex": 9997,
-      "albumId": 9997,
-      "isPopular": true,
-      "albumPublisher": "3 Reyes",
-      "albumName": "Mundial 2026",
-      "name": "Mundial 2026: Estados Unidos · Canadá · México",
       "path": "Populares",
-      "albumYear": 2026,
+      "albumSubtitle": "Estados Unidos · Canadá · México",
       "parentId": 1,
-      "id": 6,
-      "albumSubtitle": "Estados Unidos · Canadá · México"
+      "albumId": 9997,
+      "name": "Mundial 2026: Estados Unidos · Canadá · México",
+      "isPopular": true,
+      "orderIndex": 9997,
+      "albumYear": 2026,
+      "albumName": "Mundial 2026",
+      "albumPublisher": "3 Reyes",
+      "id": 6
     }
   },
   {
     "id": "7",
     "data": {
-      "path": "Populares",
-      "orderIndex": 9998,
       "albumYear": 2026,
-      "albumPublisher": "Panini",
+      "albumName": "Mundial 2026",
       "parentId": 1,
-      "isPopular": true,
       "albumId": 9998,
-      "id": 7,
-      "name": "Mundial 2026: Estados Unidos · Canadá · México",
+      "isPopular": true,
       "albumSubtitle": "Estados Unidos · Canadá · México",
-      "albumName": "Mundial 2026"
+      "name": "Mundial 2026: Estados Unidos · Canadá · México",
+      "orderIndex": 9998,
+      "albumPublisher": "Panini",
+      "path": "Populares",
+      "id": 7
     }
   },
   {
     "id": "8",
     "data": {
-      "parentId": 1,
       "path": "Populares",
-      "albumSubtitle": "FIFA Panini Collection",
-      "orderIndex": 9999,
-      "albumId": 9999,
-      "albumYear": 2026,
-      "id": 8,
-      "albumPublisher": "Panini",
-      "albumName": "Mundial 2026",
       "isPopular": true,
-      "name": "Mundial 2026: FIFA Panini Collection"
+      "id": 8,
+      "orderIndex": 9999,
+      "albumSubtitle": "FIFA Panini Collection",
+      "parentId": 1,
+      "albumYear": 2026,
+      "albumId": 9999,
+      "albumName": "Mundial 2026",
+      "name": "Mundial 2026: FIFA Panini Collection",
+      "albumPublisher": "Panini"
     }
   },
   {
     "id": "9",
     "data": {
-      "name": "Mundial 2026: Estados Unidos · Canadá · México",
-      "orderIndex": 9996,
-      "albumPublisher": "FiguPlay",
-      "albumId": 9996,
-      "albumSubtitle": "Estados Unidos · Canadá · México",
-      "parentId": 3,
-      "albumYear": 2026,
       "id": 9,
-      "albumName": "Mundial 2026",
+      "albumId": 9996,
+      "path": "Futbol > WC",
+      "parentId": 3,
+      "albumSubtitle": "Estados Unidos · Canadá · México",
+      "orderIndex": 9996,
       "isPopular": false,
-      "path": "Futbol > WC"
+      "albumPublisher": "FiguPlay",
+      "albumYear": 2026,
+      "name": "Mundial 2026: Estados Unidos · Canadá · México",
+      "albumName": "Mundial 2026"
     }
   }
 ]
