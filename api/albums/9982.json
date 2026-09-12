@@ -2,7 +2,7 @@
   "id": "9982",
   "data": {
     "groups": "[\n  {\"albumId\":9982,\"category\":\"PRINCIPAL\",\"prefix\":\"\",\"count\":180,\"sequence\":\"NUMERICA\",\"ai01\":1,\"specials\":\"\"}\n]",
-    "stickers": "",
-    "stAlbum": "{\n  \"id\": 9982,\n  \"name\": \"Toy Story\",\n  \"subtitle\": \"Toy Story 5\",\n  \"publisher\": \"Panini\",\n  \"year\": 2026,\n  \"totalStickers\": 0,\n   \"as03\": \"\",\n   \"specials\":\"\"\n}"
+    "stAlbum": "{\n  \"id\": 9982,\n  \"name\": \"Toy Story\",\n  \"subtitle\": \"Toy Story 5\",\n  \"publisher\": \"Panini\",\n  \"year\": 2026,\n  \"totalStickers\": 0,\n   \"as03\": \"\",\n   \"specials\":\"\"\n}",
+    "stickers": ""
   }
 }
