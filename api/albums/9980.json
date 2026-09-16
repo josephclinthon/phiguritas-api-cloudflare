@@ -1,0 +1,8 @@
+{
+  "id": "9980",
+  "data": {
+    "stickers": "",
+    "stAlbum": "{\n  \"id\": 9980,\n  \"name\": \"Margarita\",\n  \"subtitle\": \"Que tu cuento valga la pena\",\n  \"publisher\": \"Panini\",\n  \"year\": 2026,\n  \"totalStickers\": 0,\n   \"as03\": \"\",\n   \"specials\":\"\",\n   \"as01\":\"\"\n}",
+    "groups": "[\n  {\"albumId\":9981,\"category\":\"PRINCIPAL\",\"prefix\":\"\",\"count\":240,\"sequence\":\"NUMERICA\",\"ai01\":1,\"specials\":\"\"}\n]"
+  }
+}
