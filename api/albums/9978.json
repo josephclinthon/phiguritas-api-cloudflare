@@ -1,0 +1,8 @@
+{
+  "id": "9978",
+  "data": {
+    "groups": "[\n  {\"albumId\":9978,\"category\":\"Principal\",\"prefix\":\"\",\"count\":166,\"sequence\":\"NUMERICA\",\"ai01\":1,\"specials\":\"\"},\n  {\"albumId\":9978,\"category\":\"F\",\"prefix\":\"F\",\"count\":26,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai03\":0,\"specials\":\"\",\"stickerTypes\":\"F1;2,F2;2,F3;2,F4;2,F5;2,F6;2,F7;2,F18;2,F19;2,F20;2,F21;2,F22;2,F23;2,F24;2,F25;2,F26;2\"},\n  {\"albumId\":9978,\"category\":\"Card\",\"prefix\":\"C\",\"count\":50,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai03\":1,\"specials\":\"\"},\n  {\"albumId\":9978,\"category\":\"Limited Edition\",\"prefix\":\"LE\",\"count\":10,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai03\":3,\"as02\":\"S\",\"specials\":\"\"}\n]",
+    "stickers": "",
+    "stAlbum": "{\n  \"id\": 9978,\n  \"name\": \"Joker\",\n  \"subtitle\": \"Bienvenido a Arkham\",\n  \"publisher\": \"Panini\",\n  \"year\": 2026,\n  \"totalStickers\": 0,\n  \"as03\": \"Sticker,Card,Holographic,Limited Edition\",\n  \"specials\":\"3\",\n  \"as01\":\"Limited Edition\"\n}"
+  }
+}

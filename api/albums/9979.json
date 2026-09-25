@@ -1,0 +1,8 @@
+{
+  "id": "9979",
+  "data": {
+    "stickers": "",
+    "stAlbum": "{\n  \"id\": 9979,\n  \"name\": \"HELLO KITTY AND FRIENDS\",\n  \"subtitle\": \"Fun Together!\",\n  \"publisher\": \"Panini\",\n  \"year\": 2026,\n  \"totalStickers\": 0,\n  \"as03\": \"Card,Fluffy Card,Limited Edition\",\n  \"specials\":\"2\",\n  \"as01\":\"limited Edition\"\n}",
+    "groups": "[\n  {\"albumId\":9979,\"category\":\"Principal\",\"prefix\":\"\",\"count\":209,\"sequence\":\"NUMERICA\",\"ai01\":1,\"specials\":\"\"},\n  {\"albumId\":9979,\"category\":\"Fluffy Card\",\"prefix\":\"F\",\"count\":9,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai03\":1,\"specials\":\"\"},\n  {\"albumId\":9979,\"category\":\"Limited Edition\",\"prefix\":\"LE\",\"count\":9,\"sequence\":\"NUMERICA\",\"ai01\":1,\"ai03\":2,\"as02\":\"S\",\"specials\":\"\"}\n]"
+  }
+}
